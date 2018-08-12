@@ -1,0 +1,29 @@
+{
+  "name": "electron-demo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrarShariar/electron-demo-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrarShariar/electron-demo-app/issues"
+  },
+  "homepage": "https://github.com/abrarShariar/electron-demo-app#readme",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "crypto": "^1.0.1",
+    "ejs": "^2.6.1",
+    "pg": "^7.4.3"
+  }
+}
